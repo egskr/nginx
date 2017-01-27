@@ -1,0 +1,752 @@
+2017/01/26 12:43:01 [emerg] 18539#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2017/01/26 12:57:08 [notice] 18888#0: signal process started
+2017/01/26 13:00:26 [emerg] 19036#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:00:26 [emerg] 19036#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:00:26 [emerg] 19036#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:00:26 [emerg] 19036#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:00:26 [emerg] 19036#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:00:26 [emerg] 19036#0: still could not bind()
+2017/01/26 13:00:28 [notice] 19037#0: signal process started
+2017/01/26 13:08:47 [emerg] 19224#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:08:47 [emerg] 19224#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:08:47 [emerg] 19224#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:08:47 [emerg] 19224#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:08:47 [emerg] 19224#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:08:47 [emerg] 19224#0: still could not bind()
+2017/01/26 13:10:00 [emerg] 19245#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:10:00 [emerg] 19245#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:10:00 [emerg] 19245#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:10:00 [emerg] 19245#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:10:00 [emerg] 19245#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:10:00 [emerg] 19245#0: still could not bind()
+2017/01/26 13:10:07 [emerg] 19276#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:10:07 [emerg] 19276#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:10:07 [emerg] 19276#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:10:07 [emerg] 19276#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:10:07 [emerg] 19276#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:10:07 [emerg] 19276#0: still could not bind()
+2017/01/26 13:11:00 [emerg] 19283#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:11:00 [emerg] 19283#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:11:00 [emerg] 19283#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:11:00 [emerg] 19283#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:11:00 [emerg] 19283#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:11:00 [emerg] 19283#0: still could not bind()
+2017/01/26 13:11:18 [emerg] 19296#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:11:18 [emerg] 19296#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:11:18 [emerg] 19296#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:11:18 [emerg] 19296#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:11:18 [emerg] 19296#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:11:18 [emerg] 19296#0: still could not bind()
+2017/01/26 13:11:24 [emerg] 19311#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:11:24 [emerg] 19311#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:11:24 [emerg] 19311#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:11:24 [emerg] 19311#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:11:24 [emerg] 19311#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:11:24 [emerg] 19311#0: still could not bind()
+2017/01/26 13:11:49 [emerg] 19316#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:11:49 [emerg] 19316#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:11:49 [emerg] 19316#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:11:49 [emerg] 19316#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:11:49 [emerg] 19316#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:11:49 [emerg] 19316#0: still could not bind()
+2017/01/26 13:13:06 [emerg] 19339#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:13:06 [emerg] 19339#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:13:06 [emerg] 19339#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:13:06 [emerg] 19339#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:13:06 [emerg] 19339#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 13:13:06 [emerg] 19339#0: still could not bind()
+2017/01/26 13:13:46 [notice] 19367#0: signal process started
+2017/01/26 13:13:56 [notice] 19372#0: signal process started
+2017/01/26 13:13:56 [error] 19372#0: open() "/home/egor/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2017/01/26 13:14:11 [notice] 19392#0: signal process started
+2017/01/26 13:14:57 [notice] 19424#0: signal process started
+2017/01/26 13:36:33 [notice] 20048#0: signal process started
+2017/01/26 13:37:07 [notice] 20125#0: signal process started
+2017/01/26 13:49:03 [notice] 20378#0: signal process started
+2017/01/26 13:49:03 [error] 20378#0: open() "/home/egor/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2017/01/26 13:49:11 [notice] 20391#0: signal process started
+2017/01/26 13:49:11 [error] 20391#0: open() "/home/egor/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2017/01/26 13:57:06 [notice] 20700#0: signal process started
+2017/01/26 14:24:42 [notice] 21129#0: signal process started
+2017/01/26 14:26:49 [notice] 21248#0: signal process started
+2017/01/26 14:29:25 [notice] 21313#0: signal process started
+2017/01/26 14:29:25 [error] 21313#0: open() "/home/egor/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2017/01/26 14:29:43 [notice] 21331#0: signal process started
+2017/01/26 14:29:54 [notice] 21352#0: signal process started
+2017/01/26 14:29:54 [error] 21352#0: open() "/home/egor/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2017/01/26 14:31:16 [notice] 21405#0: signal process started
+2017/01/26 14:31:16 [error] 21405#0: open() "/home/egor/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2017/01/26 14:31:23 [notice] 21407#0: signal process started
+2017/01/26 14:31:23 [error] 21407#0: open() "/home/egor/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2017/01/26 14:32:02 [notice] 21440#0: signal process started
+2017/01/26 14:32:35 [notice] 21462#0: signal process started
+2017/01/26 14:32:35 [error] 21462#0: open() "/home/egor/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2017/01/26 14:32:49 [emerg] 21475#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 14:32:49 [emerg] 21475#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 14:32:49 [emerg] 21475#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 14:32:49 [emerg] 21475#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 14:32:54 [notice] 21477#0: signal process started
+2017/01/26 14:32:55 [notice] 21479#0: signal process started
+2017/01/26 14:32:55 [error] 21479#0: open() "/home/egor/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2017/01/26 14:33:48 [notice] 21510#0: signal process started
+2017/01/26 14:39:18 [error] 21516#0: *1 open() "/home/egor/nginx//html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2017/01/26 14:39:18 [error] 21516#0: *1 open() "/home/egor/nginx//html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2017/01/26 14:45:32 [emerg] 21759#0: invalid number of arguments in "root" directive in /home/egor/nginx/conf/nginx.conf:87
+2017/01/26 14:45:38 [emerg] 21761#0: invalid number of arguments in "root" directive in /home/egor/nginx/conf/nginx.conf:87
+2017/01/26 14:46:12 [notice] 21773#0: signal process started
+2017/01/26 14:54:59 [notice] 21933#0: signal process started
+2017/01/26 14:57:13 [emerg] 22038#0: unexpected "}" in /home/egor/nginx/conf/nginx.conf:44
+2017/01/26 14:57:29 [emerg] 22040#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 14:57:29 [emerg] 22040#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 14:57:29 [emerg] 22040#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 14:57:32 [notice] 22042#0: signal process started
+2017/01/26 14:58:34 [notice] 22057#0: signal process started
+2017/01/26 15:05:30 [emerg] 22199#0: directive "location" has no opening "{" in /home/egor/nginx/conf/nginx.conf:49
+2017/01/26 15:06:09 [emerg] 22210#0: directive "location" has no opening "{" in /home/egor/nginx/conf/nginx.conf:49
+2017/01/26 15:06:21 [emerg] 22214#0: directive "location" has no opening "{" in /home/egor/nginx/conf/nginx.conf:49
+2017/01/26 15:06:31 [emerg] 22216#0: unknown directive "root=/home/egor/nginx/html/html" in /home/egor/nginx/conf/nginx.conf:50
+2017/01/26 15:06:59 [notice] 22218#0: signal process started
+2017/01/26 15:11:03 [emerg] 22316#0: directive "include" is not terminated by ";" in /home/egor/nginx/conf/nginx.conf:44
+2017/01/26 15:11:19 [notice] 22326#0: signal process started
+2017/01/26 15:12:02 [notice] 22334#0: signal process started
+2017/01/26 15:14:23 [notice] 22365#0: signal process started
+2017/01/26 15:16:13 [notice] 22398#0: signal process started
+2017/01/26 15:17:13 [notice] 22412#0: signal process started
+2017/01/26 15:17:52 [notice] 22421#0: signal process started
+2017/01/26 15:18:17 [emerg] 22435#0: invalid number of arguments in "root" directive in /home/egor/nginx/conf/vhosts.conf:16
+2017/01/26 15:18:27 [emerg] 22437#0: "alias" directive is duplicate, "root" directive was specified earlier in /home/egor/nginx/conf/vhosts.conf:16
+2017/01/26 15:18:45 [notice] 22439#0: signal process started
+2017/01/26 15:23:28 [notice] 22556#0: signal process started
+2017/01/26 15:26:27 [notice] 22617#0: signal process started
+2017/01/26 15:31:10 [emerg] 22692#0: location "/404.html" is outside location "/admin/" in /home/egor/nginx/conf/vhosts/backend.conf:23
+2017/01/26 15:31:22 [notice] 22694#0: signal process started
+2017/01/26 15:32:42 [notice] 22731#0: signal process started
+2017/01/26 15:41:10 [notice] 22849#0: signal process started
+2017/01/26 15:41:33 [notice] 22855#0: signal process started
+2017/01/26 15:45:27 [notice] 22893#0: signal process started
+2017/01/26 15:46:18 [notice] 22909#0: signal process started
+2017/01/26 15:50:20 [emerg] 22966#0: invalid number of arguments in "try_files" directive in /home/egor/nginx/conf/vhosts/backend.conf:19
+2017/01/26 15:50:53 [notice] 22968#0: signal process started
+2017/01/26 15:51:38 [notice] 22980#0: signal process started
+2017/01/26 15:51:38 [error] 22980#0: open() "/home/egor/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2017/01/26 15:52:09 [emerg] 22994#0: invalid number of arguments in "try_files" directive in /home/egor/nginx/conf/vhosts/backend.conf:19
+2017/01/26 15:56:39 [emerg] 23049#0: invalid number of arguments in "try_files" directive in /home/egor/nginx/conf/vhosts/backend.conf:19
+2017/01/26 15:56:58 [notice] 23073#0: signal process started
+2017/01/26 15:58:19 [notice] 23095#0: signal process started
+2017/01/26 15:58:57 [notice] 23101#0: signal process started
+2017/01/26 15:59:12 [notice] 23117#0: signal process started
+2017/01/26 15:59:28 [notice] 23124#0: signal process started
+2017/01/26 16:00:29 [notice] 23157#0: signal process started
+2017/01/26 16:07:10 [emerg] 23260#0: invalid number of arguments in "try_files" directive in /home/egor/nginx/conf/vhosts/backend.conf:19
+2017/01/26 16:07:21 [notice] 23262#0: signal process started
+2017/01/26 16:08:51 [emerg] 23281#0: invalid number of arguments in "alias" directive in /home/egor/nginx/conf/vhosts/backend.conf:20
+2017/01/26 16:08:57 [notice] 23283#0: signal process started
+2017/01/26 16:10:42 [notice] 23325#0: signal process started
+2017/01/26 16:12:26 [notice] 23348#0: signal process started
+2017/01/26 16:14:03 [notice] 23365#0: signal process started
+2017/01/26 16:14:22 [notice] 23380#0: signal process started
+2017/01/26 16:14:49 [notice] 23386#0: signal process started
+2017/01/26 16:16:06 [notice] 23410#0: signal process started
+2017/01/26 16:16:50 [notice] 23424#0: signal process started
+2017/01/26 16:18:36 [notice] 23454#0: signal process started
+2017/01/26 16:19:41 [notice] 23469#0: signal process started
+2017/01/26 16:21:09 [notice] 23528#0: signal process started
+2017/01/26 16:28:34 [notice] 23671#0: signal process started
+2017/01/27 11:13:22 [notice] 5477#0: signal process started
+2017/01/27 12:18:55 [notice] 7093#0: signal process started
+2017/01/27 12:18:57 [emerg] 7095#0: bind() to 0.0.0.0:443 failed (13: Permission denied)
+2017/01/27 12:22:38 [notice] 7214#0: signal process started
+2017/01/27 12:22:38 [error] 7214#0: open() "/home/egor/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2017/01/27 12:26:56 [notice] 7290#0: signal process started
+2017/01/27 12:29:32 [notice] 7346#0: signal process started
+2017/01/27 12:30:34 [notice] 7386#0: signal process started
+2017/01/27 12:31:23 [notice] 7407#0: signal process started
+2017/01/27 12:35:03 [notice] 7484#0: signal process started
+2017/01/27 12:36:51 [notice] 7619#0: signal process started
+2017/01/27 12:37:30 [notice] 7639#0: signal process started
+2017/01/27 12:39:49 [notice] 7679#0: signal process started
+2017/01/27 12:41:24 [emerg] 7892#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/27 12:41:24 [emerg] 7892#0: bind() to 0.0.0.0:8443 failed (98: Address already in use)
+2017/01/27 12:41:24 [emerg] 7892#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/27 12:41:24 [emerg] 7892#0: bind() to 0.0.0.0:8443 failed (98: Address already in use)
+2017/01/27 12:41:24 [emerg] 7892#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/27 12:41:24 [emerg] 7892#0: bind() to 0.0.0.0:8443 failed (98: Address already in use)
+2017/01/27 12:41:24 [emerg] 7892#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/27 12:41:24 [emerg] 7892#0: bind() to 0.0.0.0:8443 failed (98: Address already in use)
+2017/01/27 12:41:43 [notice] 7897#0: signal process started
+2017/01/27 12:43:34 [notice] 7931#0: signal process started
+2017/01/27 12:58:18 [notice] 8821#0: signal process started
+2017/01/27 13:00:14 [notice] 8882#0: signal process started
+2017/01/27 14:49:47 [emerg] 12126#0: "proxy_pass" directive is not allowed here in /home/egor/nginx/conf/nginx.conf:45
+2017/01/27 14:50:46 [emerg] 12158#0: "proxy_pass" directive is not allowed here in /home/egor/nginx/conf/nginx.conf:45
+2017/01/27 14:51:03 [emerg] 12170#0: "proxy_pass" directive is not allowed here in /home/egor/nginx/conf/nginx.conf:53
+2017/01/27 14:51:46 [emerg] 12180#0: duplicate location "/" in /home/egor/nginx/conf/nginx.conf:62
+2017/01/27 14:51:48 [emerg] 12182#0: duplicate location "/" in /home/egor/nginx/conf/nginx.conf:62
+2017/01/27 14:52:24 [notice] 12199#0: signal process started
+2017/01/27 14:52:24 [alert] 12199#0: kill(8885, 3) failed (1: Operation not permitted)
+2017/01/27 14:52:30 [notice] 12201#0: signal process started
+2017/01/27 14:52:30 [alert] 12201#0: kill(8885, 3) failed (1: Operation not permitted)
+2017/01/27 14:52:35 [emerg] 12203#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/27 14:52:35 [emerg] 12203#0: bind() to 0.0.0.0:8443 failed (98: Address already in use)
+2017/01/27 14:52:35 [emerg] 12203#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/27 14:52:35 [emerg] 12203#0: bind() to 0.0.0.0:8443 failed (98: Address already in use)
+2017/01/27 14:52:35 [emerg] 12203#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/27 14:52:35 [emerg] 12203#0: bind() to 0.0.0.0:8443 failed (98: Address already in use)
+2017/01/27 14:52:35 [emerg] 12203#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/27 14:52:35 [emerg] 12203#0: bind() to 0.0.0.0:8443 failed (98: Address already in use)
+2017/01/27 14:52:35 [emerg] 12203#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/27 14:52:35 [emerg] 12203#0: bind() to 0.0.0.0:8443 failed (98: Address already in use)
+2017/01/27 14:52:35 [emerg] 12203#0: still could not bind()
+2017/01/27 14:53:22 [notice] 12227#0: signal process started
+2017/01/27 14:53:34 [notice] 12272#0: signal process started
+2017/01/27 14:53:34 [error] 12272#0: open() "/home/egor/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2017/01/27 14:56:44 [notice] 12327#0: signal process started
+2017/01/27 15:01:38 [notice] 12457#0: signal process started
+2017/01/27 15:06:29 [notice] 12567#0: signal process started
+2017/01/27 15:06:37 [error] 12571#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8443"
+2017/01/27 15:06:37 [error] 12571#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8443"
+2017/01/27 15:06:38 [error] 12571#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8443"
+2017/01/27 15:06:39 [error] 12571#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8443"
+2017/01/27 15:06:39 [error] 12571#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8443"
+2017/01/27 15:06:40 [error] 12571#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8443"
+2017/01/27 15:06:43 [error] 12571#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8443"
+2017/01/27 15:06:43 [error] 12571#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8443"
+2017/01/27 15:06:43 [error] 12571#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8443"
+2017/01/27 15:06:44 [error] 12571#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8443"
+2017/01/27 15:06:44 [error] 12571#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8443"
+2017/01/27 15:07:10 [error] 12571#0: *10 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 15:07:10 [error] 12571#0: *10 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 15:07:14 [error] 12571#0: *10 no live upstreams while connecting to upstream, client: 192.168.122.82, server: localhost, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 15:07:18 [error] 12571#0: *13 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 15:07:18 [error] 12571#0: *13 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 15:07:19 [error] 12571#0: *13 no live upstreams while connecting to upstream, client: 192.168.122.82, server: localhost, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 15:07:19 [error] 12571#0: *13 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 15:07:19 [error] 12571#0: *13 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 15:07:19 [error] 12571#0: *13 no live upstreams while connecting to upstream, client: 192.168.122.82, server: localhost, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 15:14:58 [error] 12571#0: *18 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 15:14:58 [error] 12571#0: *18 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 15:14:58 [error] 12571#0: *18 no live upstreams while connecting to upstream, client: 192.168.122.82, server: localhost, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 15:14:59 [error] 12571#0: *18 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 15:14:59 [error] 12571#0: *18 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 15:15:14 [error] 12571#0: *18 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 15:15:14 [error] 12571#0: *18 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 15:16:59 [notice] 12726#0: signal process started
+2017/01/27 15:17:19 [error] 12739#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 15:17:19 [error] 12739#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 15:17:20 [error] 12739#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 15:17:20 [error] 12739#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 15:17:20 [error] 12739#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 15:17:20 [error] 12739#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 15:17:20 [error] 12739#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 15:17:20 [error] 12739#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 15:18:29 [error] 12739#0: *8 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8443"
+2017/01/27 15:18:29 [error] 12739#0: *8 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8443"
+2017/01/27 15:18:34 [error] 12739#0: *8 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8443"
+2017/01/27 15:18:35 [error] 12739#0: *8 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8443"
+2017/01/27 15:18:35 [error] 12739#0: *8 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8443"
+2017/01/27 15:18:35 [error] 12739#0: *8 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8443"
+2017/01/27 15:18:36 [error] 12739#0: *8 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8443"
+2017/01/27 15:18:36 [error] 12739#0: *8 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8443"
+2017/01/27 15:18:36 [error] 12739#0: *8 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8443"
+2017/01/27 15:18:36 [error] 12739#0: *8 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8443"
+2017/01/27 15:18:36 [error] 12739#0: *8 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8443"
+2017/01/27 15:18:36 [error] 12739#0: *8 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8443"
+2017/01/27 15:18:36 [error] 12739#0: *8 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8443"
+2017/01/27 15:18:36 [error] 12739#0: *8 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8443"
+2017/01/27 15:18:37 [error] 12739#0: *8 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8443"
+2017/01/27 15:18:37 [error] 12739#0: *8 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8443"
+2017/01/27 15:18:37 [error] 12739#0: *8 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8443"
+2017/01/27 15:20:13 [emerg] 12810#0: unknown directive "health_check" in /home/egor/nginx/conf/nginx.conf:60
+2017/01/27 15:20:48 [emerg] 12815#0: unknown directive "health_check" in /home/egor/nginx/conf/nginx.conf:60
+2017/01/27 15:21:05 [notice] 12829#0: signal process started
+2017/01/27 15:26:39 [emerg] 12987#0: directive "include" is not terminated by ";" in /home/egor/nginx/conf/nginx.conf:47
+2017/01/27 15:26:58 [emerg] 12991#0: "location" directive is not allowed here in /home/egor/nginx/conf/upstreams/web.conf:6
+2017/01/27 15:27:44 [emerg] 13004#0: unknown directive "proxy_path" in /home/egor/nginx/conf/upstreams/web.conf:8
+2017/01/27 15:28:03 [notice] 13016#0: signal process started
+2017/01/27 15:30:39 [notice] 13081#0: signal process started
+2017/01/27 15:39:04 [warn] 13213#0: conflicting server name "192.168.122.1" on 0.0.0.0:8080, ignored
+2017/01/27 15:39:04 [warn] 13213#0: conflicting server name "192.168.122.1" on 0.0.0.0:8443, ignored
+2017/01/27 15:39:04 [notice] 13213#0: signal process started
+2017/01/27 15:39:32 [notice] 13218#0: signal process started
+2017/01/27 15:39:32 [error] 13218#0: open() "/home/egor/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2017/01/27 15:39:47 [error] 13222#0: *1 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.1, server: 0.0.0.0:8443
+2017/01/27 15:39:49 [error] 13222#0: *2 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.1, server: 0.0.0.0:8443
+2017/01/27 15:40:25 [notice] 13274#0: signal process started
+2017/01/27 15:40:31 [error] 13278#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 15:40:31 [error] 13278#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 15:40:32 [error] 13278#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 15:40:33 [error] 13278#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 15:40:33 [error] 13278#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 15:40:33 [error] 13278#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 15:40:33 [error] 13278#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 15:40:33 [error] 13278#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 15:40:33 [error] 13278#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 15:40:34 [error] 13278#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 15:40:34 [error] 13278#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 15:40:34 [error] 13278#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 15:40:35 [error] 13278#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 15:40:35 [error] 13278#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 15:40:35 [error] 13278#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 15:40:35 [error] 13278#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 15:40:35 [error] 13278#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 15:40:37 [error] 13278#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 15:40:37 [error] 13278#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 15:40:37 [error] 13278#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 15:40:38 [error] 13278#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 15:40:48 [error] 13278#0: *16 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.1, server: 0.0.0.0:8443
+2017/01/27 15:41:06 [error] 13278#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 15:41:06 [error] 13278#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 15:43:27 [error] 13278#0: *19 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 15:43:27 [error] 13278#0: *19 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 15:43:27 [error] 13278#0: *19 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 15:43:28 [error] 13278#0: *19 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 15:43:28 [error] 13278#0: *19 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 15:43:28 [error] 13278#0: *19 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 15:43:29 [error] 13278#0: *19 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 15:43:29 [error] 13278#0: *19 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 15:43:29 [error] 13278#0: *19 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 15:43:29 [error] 13278#0: *19 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 15:43:29 [error] 13278#0: *19 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 15:43:29 [error] 13278#0: *19 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 15:43:53 [notice] 13346#0: signal process started
+2017/01/27 15:43:58 [error] 13350#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET /bodyback.png HTTP/1.1", upstream: "http://192.168.122.123:80/bodyback.png", host: "192.168.122.1:8080", referrer: "http://192.168.122.1:8080/"
+2017/01/27 15:45:04 [error] 13350#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET /bodyback.png HTTP/1.1", upstream: "http://192.168.122.123:80/bodyback.png", host: "192.168.122.1:8080", referrer: "http://192.168.122.1:8080/"
+2017/01/27 15:45:29 [error] 13350#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET /bodyback.png HTTP/1.1", upstream: "http://192.168.122.123:80/bodyback.png", host: "192.168.122.1:8080", referrer: "http://192.168.122.1:8080/"
+2017/01/27 15:45:51 [error] 13350#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET /bodyback.png HTTP/1.1", upstream: "http://192.168.122.123:80/bodyback.png", host: "192.168.122.1:8080", referrer: "http://192.168.122.1:8080/"
+2017/01/27 15:46:08 [error] 13350#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:46:08 [error] 13350#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 15:46:10 [error] 13350#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 15:46:20 [error] 13350#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:46:20 [error] 13350#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 15:46:21 [error] 13350#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 15:46:21 [error] 13350#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:46:21 [error] 13350#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 15:46:21 [error] 13350#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 15:46:22 [error] 13350#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:46:22 [error] 13350#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 15:46:22 [error] 13350#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 15:46:22 [error] 13350#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:46:22 [error] 13350#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 15:46:23 [error] 13350#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 15:46:23 [error] 13350#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:46:23 [error] 13350#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 15:46:23 [error] 13350#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 15:46:24 [error] 13350#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:46:24 [error] 13350#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 15:46:24 [error] 13350#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 15:46:24 [error] 13350#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:46:24 [error] 13350#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 15:46:24 [error] 13350#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 15:46:24 [error] 13350#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:46:24 [error] 13350#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 15:46:25 [error] 13350#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 15:46:25 [error] 13350#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:46:25 [error] 13350#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 15:46:30 [error] 13350#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 15:46:34 [error] 13350#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET /bodyback.png HTTP/1.1", upstream: "http://192.168.122.123:80/bodyback.png", host: "192.168.122.1:8080", referrer: "http://192.168.122.1:8080/"
+2017/01/27 15:47:17 [error] 13350#0: *107 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET /bodyback.png HTTP/1.1", upstream: "http://192.168.122.123:80/bodyback.png", host: "192.168.122.1:8080", referrer: "http://192.168.122.1:8080/"
+2017/01/27 15:47:24 [error] 13350#0: *107 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:47:24 [error] 13350#0: *107 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 15:47:25 [error] 13350#0: *107 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:47:25 [error] 13350#0: *107 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 15:47:25 [error] 13350#0: *107 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 15:47:25 [error] 13350#0: *107 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:47:25 [error] 13350#0: *107 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 15:47:25 [error] 13350#0: *107 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 15:47:25 [error] 13350#0: *107 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:47:25 [error] 13350#0: *107 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 15:47:26 [error] 13350#0: *107 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 15:47:26 [error] 13350#0: *107 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:47:26 [error] 13350#0: *107 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 15:47:26 [error] 13350#0: *107 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 15:47:26 [error] 13350#0: *107 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:47:26 [error] 13350#0: *107 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 15:47:26 [error] 13350#0: *107 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 15:47:26 [error] 13350#0: *107 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:47:26 [error] 13350#0: *107 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 15:47:26 [error] 13350#0: *107 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 15:47:26 [error] 13350#0: *107 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:47:26 [error] 13350#0: *107 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 15:47:26 [error] 13350#0: *107 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 15:47:27 [error] 13350#0: *107 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:47:27 [error] 13350#0: *154 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 15:47:27 [error] 13350#0: *154 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 15:47:27 [error] 13350#0: *154 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:47:28 [error] 13350#0: *186 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 15:47:28 [error] 13350#0: *186 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 15:47:28 [error] 13350#0: *186 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:47:29 [error] 13350#0: *186 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 15:47:46 [notice] 13411#0: signal process started
+2017/01/27 15:48:02 [emerg] 13419#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/27 15:48:02 [emerg] 13419#0: bind() to 0.0.0.0:8443 failed (98: Address already in use)
+2017/01/27 15:48:02 [emerg] 13419#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/27 15:48:02 [emerg] 13419#0: bind() to 0.0.0.0:8443 failed (98: Address already in use)
+2017/01/27 15:48:02 [emerg] 13419#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/27 15:48:02 [emerg] 13419#0: bind() to 0.0.0.0:8443 failed (98: Address already in use)
+2017/01/27 15:48:12 [notice] 13431#0: signal process started
+2017/01/27 15:48:18 [error] 13435#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:48:36 [error] 13435#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:48:36 [error] 13435#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:48:37 [error] 13435#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 15:48:37 [error] 13435#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:48:37 [error] 13435#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:48:37 [error] 13435#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 15:48:38 [error] 13435#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:48:38 [error] 13435#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:48:40 [error] 13435#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 15:48:40 [error] 13435#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:48:40 [error] 13435#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:48:40 [error] 13435#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 15:48:40 [error] 13435#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:48:40 [error] 13435#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:48:40 [error] 13435#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 15:48:40 [error] 13435#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:48:40 [error] 13435#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:48:41 [error] 13435#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 15:48:41 [error] 13435#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:48:41 [error] 13435#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:48:41 [error] 13435#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 15:48:41 [error] 13435#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:48:41 [error] 13435#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:49:11 [error] 13435#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:50:39 [emerg] 13497#0: unknown directive "round-robin" in /home/egor/nginx/conf/upstreams/web.conf:4
+2017/01/27 15:51:26 [emerg] 13513#0: unknown directive "round-robin" in /home/egor/nginx/conf/upstreams/web.conf:2
+2017/01/27 15:51:40 [emerg] 13516#0: unknown directive "round_robin" in /home/egor/nginx/conf/upstreams/web.conf:2
+2017/01/27 15:52:37 [notice] 13538#0: signal process started
+2017/01/27 15:52:46 [error] 13542#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:52:47 [error] 13542#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:8080/", host: "192.168.122.1:8080"
+2017/01/27 15:52:47 [error] 13542#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET /bodyback.png HTTP/1.1", upstream: "http://192.168.122.82:8080/bodyback.png", host: "192.168.122.1:8080", referrer: "http://192.168.122.1:8080/"
+2017/01/27 15:53:51 [emerg] 13560#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/27 15:53:51 [emerg] 13560#0: bind() to 0.0.0.0:8443 failed (98: Address already in use)
+2017/01/27 15:53:51 [emerg] 13560#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/27 15:53:51 [emerg] 13560#0: bind() to 0.0.0.0:8443 failed (98: Address already in use)
+2017/01/27 15:53:54 [notice] 13562#0: signal process started
+2017/01/27 15:54:23 [notice] 13579#0: signal process started
+2017/01/27 15:54:57 [notice] 13589#0: signal process started
+2017/01/27 16:00:41 [notice] 13695#0: signal process started
+2017/01/27 16:03:06 [notice] 13825#0: signal process started
+2017/01/27 16:03:08 [emerg] 13827#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2017/01/27 16:03:14 [emerg] 13829#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2017/01/27 16:03:45 [notice] 13833#0: signal process started
+2017/01/27 16:03:45 [error] 13833#0: open() "/home/egor/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2017/01/27 16:03:47 [emerg] 13835#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2017/01/27 16:04:38 [emerg] 13858#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2017/01/27 16:05:10 [notice] 13873#0: signal process started
+2017/01/27 16:05:10 [error] 13873#0: open() "/home/egor/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2017/01/27 16:05:12 [emerg] 13875#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2017/01/27 16:05:39 [emerg] 13879#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2017/01/27 16:05:58 [emerg] 13883#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2017/01/27 16:06:20 [notice] 13895#0: signal process started
+2017/01/27 16:06:20 [error] 13895#0: open() "/home/egor/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2017/01/27 16:19:00 [notice] 14329#0: signal process started
+2017/01/27 16:19:13 [error] 14333#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:19:13 [error] 14333#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 16:19:14 [error] 14333#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:19:14 [error] 14333#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 16:19:14 [error] 14333#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:19:14 [error] 14333#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 16:19:14 [error] 14333#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:19:14 [error] 14333#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 16:19:15 [error] 14333#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:19:15 [error] 14333#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 16:19:15 [error] 14333#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:19:15 [error] 14333#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 16:19:15 [error] 14333#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:19:15 [error] 14333#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 16:19:24 [error] 14333#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:19:24 [error] 14333#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 16:19:24 [error] 14333#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:19:24 [error] 14333#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 16:19:24 [error] 14333#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:19:24 [error] 14333#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 16:19:24 [error] 14333#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:19:24 [error] 14333#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 16:19:43 [notice] 14347#0: signal process started
+2017/01/27 16:19:48 [error] 14351#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:19:48 [error] 14351#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 16:19:49 [error] 14351#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:19:49 [error] 14351#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 16:19:50 [error] 14351#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:19:50 [error] 14351#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 16:19:50 [error] 14351#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:19:50 [error] 14351#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 16:19:50 [error] 14351#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:19:50 [error] 14351#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 16:19:50 [error] 14351#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:19:50 [error] 14351#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 16:19:51 [error] 14351#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:19:51 [error] 14351#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 16:20:22 [notice] 14391#0: signal process started
+2017/01/27 16:20:27 [error] 14395#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:20:27 [error] 14395#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 16:20:28 [error] 14395#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:20:28 [error] 14395#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 16:20:28 [error] 14395#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:20:28 [error] 14395#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 16:20:29 [error] 14395#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:20:29 [error] 14395#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 16:20:29 [error] 14395#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:20:29 [error] 14395#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 16:20:29 [error] 14395#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:20:29 [error] 14395#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 16:20:29 [error] 14395#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:20:29 [error] 14395#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 16:20:30 [error] 14395#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:20:30 [error] 14395#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 16:20:30 [error] 14395#0: *15 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 16:20:31 [error] 14395#0: *32 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:20:31 [error] 14395#0: *32 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 16:20:32 [error] 14395#0: *32 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:20:32 [error] 14395#0: *32 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 16:20:33 [error] 14395#0: *32 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:20:33 [error] 14395#0: *32 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 16:20:34 [error] 14395#0: *32 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:20:34 [error] 14395#0: *32 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 16:21:51 [notice] 14413#0: signal process started
+2017/01/27 16:21:57 [error] 14418#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:21:57 [error] 14418#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 16:21:57 [error] 14418#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:21:57 [error] 14418#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 16:21:57 [error] 14418#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:21:57 [error] 14418#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 16:21:58 [error] 14418#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:21:58 [error] 14418#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 16:21:58 [error] 14418#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:21:58 [error] 14418#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 16:21:58 [error] 14418#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:21:58 [error] 14418#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 16:21:58 [error] 14418#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:21:58 [error] 14418#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 16:21:59 [error] 14418#0: *14 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:21:59 [error] 14418#0: *14 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 16:22:08 [error] 14418#0: *14 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:22:08 [error] 14418#0: *14 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 16:26:35 [notice] 14550#0: signal process started
+2017/01/27 16:28:13 [emerg] 14582#0: "location" directive is not allowed here in /home/egor/nginx/conf/vhosts/lb.conf:7
+2017/01/27 16:28:30 [notice] 14585#0: signal process started
+2017/01/27 16:28:36 [error] 14589#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:28:36 [error] 14589#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 16:28:36 [error] 14589#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:28:36 [error] 14589#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 16:28:37 [error] 14589#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:28:37 [error] 14589#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 16:28:37 [error] 14589#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:28:37 [error] 14589#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8080"
+2017/01/27 16:28:37 [error] 14589#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:28:37 [error] 14589#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 16:29:40 [error] 14589#0: *10 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:29:40 [error] 14589#0: *10 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:29:50 [error] 14589#0: *13 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.82, server: 0.0.0.0:8443
+2017/01/27 16:30:06 [error] 14589#0: *14 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.1, server: 0.0.0.0:8443
+2017/01/27 16:30:12 [error] 14589#0: *15 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.1, server: 0.0.0.0:8443
+2017/01/27 16:31:39 [notice] 14658#0: signal process started
+2017/01/27 16:31:45 [error] 14662#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8443"
+2017/01/27 16:31:45 [error] 14662#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8443"
+2017/01/27 16:31:46 [error] 14662#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8443"
+2017/01/27 16:31:46 [error] 14662#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1:8443"
+2017/01/27 16:31:52 [error] 14662#0: *5 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:31:52 [error] 14662#0: *5 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:32:12 [error] 14662#0: *8 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1:8080"
+2017/01/27 16:32:12 [error] 14662#0: *8 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1:8080"
+2017/01/27 16:33:19 [error] 14662#0: *11 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:33:19 [error] 14662#0: *11 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:33:20 [error] 14662#0: *11 no live upstreams while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 16:33:22 [error] 14662#0: *14 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:33:22 [error] 14662#0: *14 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:33:23 [error] 14662#0: *14 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:33:23 [error] 14662#0: *14 no live upstreams while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 16:33:24 [error] 14662#0: *14 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:33:24 [error] 14662#0: *14 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:33:24 [error] 14662#0: *14 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:33:24 [error] 14662#0: *14 no live upstreams while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 16:33:24 [error] 14662#0: *14 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:33:24 [error] 14662#0: *14 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:33:24 [error] 14662#0: *14 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:33:24 [error] 14662#0: *14 no live upstreams while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 16:33:31 [error] 14662#0: *14 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:33:31 [error] 14662#0: *14 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:33:32 [error] 14662#0: *14 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:33:32 [error] 14662#0: *14 no live upstreams while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 16:33:43 [error] 14662#0: *14 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:33:43 [error] 14662#0: *14 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:37:04 [notice] 14745#0: signal process started
+2017/01/27 16:37:19 [error] 14750#0: *3 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:37:19 [error] 14750#0: *3 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:37:20 [error] 14750#0: *3 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:37:20 [error] 14750#0: *3 no live upstreams while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 16:37:21 [error] 14750#0: *3 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:37:21 [error] 14750#0: *3 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:37:21 [error] 14750#0: *3 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:37:21 [error] 14750#0: *3 no live upstreams while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 16:39:39 [emerg] 14781#0: unexpected end of file, expecting "}" in /home/egor/nginx/conf/upstreams/web.conf:16
+2017/01/27 16:40:00 [notice] 14784#0: signal process started
+2017/01/27 16:40:22 [error] 14810#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:40:22 [error] 14810#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:40:22 [error] 14810#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:40:22 [error] 14810#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 16:40:23 [error] 14810#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:40:23 [error] 14810#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:40:23 [error] 14810#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:40:23 [error] 14810#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 16:40:23 [error] 14810#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:40:23 [error] 14810#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:42:03 [notice] 14842#0: signal process started
+2017/01/27 16:43:28 [notice] 14876#0: signal process started
+2017/01/27 16:44:13 [notice] 14895#0: signal process started
+2017/01/27 16:44:43 [error] 14899#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:44:43 [error] 14899#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:45:37 [error] 14899#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:45:37 [error] 14899#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:45:40 [error] 14899#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:45:40 [error] 14899#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 16:45:41 [error] 14899#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:45:41 [error] 14899#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:45:41 [error] 14899#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:45:41 [error] 14899#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 16:46:14 [error] 14899#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:46:14 [error] 14899#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:46:14 [error] 14899#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:46:14 [error] 14899#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 16:46:14 [error] 14899#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:46:14 [error] 14899#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:46:15 [error] 14899#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:46:15 [error] 14899#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 16:46:15 [error] 14899#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:46:15 [error] 14899#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:46:15 [error] 14899#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:46:15 [error] 14899#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 16:46:15 [error] 14899#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:46:15 [error] 14899#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:46:16 [error] 14899#0: *22 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:46:16 [error] 14899#0: *22 no live upstreams while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 16:46:21 [error] 14899#0: *22 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:46:21 [error] 14899#0: *22 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:46:22 [error] 14899#0: *22 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:46:22 [error] 14899#0: *22 no live upstreams while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 16:49:56 [emerg] 14977#0: invalid number of arguments in "root" directive in /home/egor/nginx/conf/vhosts/lb.conf:18
+2017/01/27 16:50:12 [notice] 15012#0: signal process started
+2017/01/27 16:50:24 [error] 15016#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:50:24 [error] 15016#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:50:24 [error] 15016#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:50:24 [error] 15016#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 16:50:25 [error] 15016#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:50:25 [error] 15016#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:50:25 [error] 15016#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:50:25 [error] 15016#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 16:50:26 [error] 15016#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:50:26 [error] 15016#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:50:26 [error] 15016#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:50:26 [error] 15016#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 16:50:26 [error] 15016#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:50:26 [error] 15016#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:50:34 [error] 15016#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:50:34 [error] 15016#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 16:50:34 [error] 15016#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:50:34 [error] 15016#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:50:34 [error] 15016#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:50:34 [error] 15016#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 16:50:34 [error] 15016#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:50:34 [error] 15016#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:50:34 [error] 15016#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:50:34 [error] 15016#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 16:50:35 [error] 15016#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:50:35 [error] 15016#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:50:35 [error] 15016#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:50:35 [error] 15016#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 16:50:36 [error] 15016#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:50:36 [error] 15016#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:50:37 [error] 15016#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:50:37 [error] 15016#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 16:51:25 [error] 15016#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:51:25 [error] 15016#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:51:25 [error] 15016#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:51:25 [error] 15016#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 16:51:25 [error] 15016#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:51:25 [error] 15016#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:51:26 [error] 15016#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:51:26 [error] 15016#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 16:51:26 [error] 15016#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:51:26 [error] 15016#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:51:26 [error] 15016#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:51:26 [error] 15016#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 16:51:26 [error] 15016#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:51:26 [error] 15016#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:51:27 [error] 15016#0: *42 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:51:27 [error] 15016#0: *42 no live upstreams while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 16:51:27 [error] 15016#0: *45 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:51:28 [error] 15016#0: *45 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:51:38 [error] 15016#0: *45 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:51:38 [error] 15016#0: *45 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:52:53 [notice] 15052#0: signal process started
+2017/01/27 16:53:07 [error] 15056#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:53:07 [error] 15056#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:53:07 [error] 15056#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:53:07 [error] 15056#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 16:53:08 [error] 15056#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:53:08 [error] 15056#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:54:09 [emerg] 15081#0: "upstream" directive is not allowed here in /home/egor/nginx/conf/vhosts/lb.conf:15
+2017/01/27 16:56:08 [emerg] 15116#0: duplicate upstream "backend" in /home/egor/nginx/conf/vhosts/lb.conf:1
+2017/01/27 16:56:45 [notice] 15121#0: signal process started
+2017/01/27 16:56:54 [error] 15125#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:56:54 [error] 15125#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:56:54 [error] 15125#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:56:54 [error] 15125#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 16:56:55 [error] 15125#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:56:55 [error] 15125#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:56:55 [error] 15125#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:56:55 [error] 15125#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 16:56:55 [error] 15125#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:56:55 [error] 15125#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:56:55 [error] 15125#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:56:55 [error] 15125#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 16:57:29 [notice] 15144#0: signal process started
+2017/01/27 16:58:07 [error] 15148#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:58:07 [error] 15148#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:58:07 [error] 15148#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:58:07 [error] 15148#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 16:58:08 [error] 15148#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:58:08 [error] 15148#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:58:38 [notice] 15166#0: signal process started
+2017/01/27 16:58:47 [error] 15170#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:58:47 [error] 15170#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:58:48 [error] 15170#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:58:48 [error] 15170#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 16:58:48 [error] 15170#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:58:48 [error] 15170#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.123:80/", host: "192.168.122.1"
+2017/01/27 16:58:48 [error] 15170#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://192.168.122.82:80/", host: "192.168.122.1"
+2017/01/27 16:58:48 [error] 15170#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.82, server: 192.168.122.1, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.1"
+2017/01/27 17:19:36 [notice] 15525#0: signal process started
+2017/01/27 17:24:59 [notice] 15652#0: signal process started
+2017/01/27 17:30:48 [notice] 15764#0: signal process started
+2017/01/27 17:31:10 [error] 15768#0: *1 access forbidden by rule, client: 192.168.122.82, server: 192.168.122.1, request: "GET /status HTTP/1.1", host: "192.168.122.1", referrer: "https://192.168.122.1/"
+2017/01/27 17:31:14 [error] 15768#0: *1 access forbidden by rule, client: 192.168.122.82, server: 192.168.122.1, request: "GET /status HTTP/1.1", host: "192.168.122.1", referrer: "https://192.168.122.1/"
+2017/01/27 17:31:28 [error] 15768#0: *1 access forbidden by rule, client: 192.168.122.82, server: 192.168.122.1, request: "GET /status HTTP/1.1", host: "192.168.122.1", referrer: "https://192.168.122.1/"
+2017/01/27 17:31:59 [notice] 15788#0: signal process started
+2017/01/27 17:44:43 [notice] 15986#0: signal process started
+2017/01/27 17:48:30 [notice] 16044#0: signal process started
+2017/01/27 17:50:56 [notice] 16117#0: signal process started
+2017/01/27 17:51:50 [notice] 16138#0: signal process started
+2017/01/27 17:55:46 [notice] 16205#0: signal process started
+2017/01/27 18:06:40 [notice] 16425#0: signal process started
+2017/01/27 18:24:57 [notice] 16687#0: signal process started
+2017/01/27 18:32:38 [notice] 16852#0: signal process started
+2017/01/27 18:35:23 [emerg] 16897#0: invalid number of arguments in "rewrite" directive in /home/egor/nginx/conf/vhosts/lb.conf:34
+2017/01/27 18:35:37 [notice] 16900#0: signal process started
+2017/01/27 18:36:01 [notice] 16907#0: signal process started
+2017/01/27 18:37:11 [emerg] 16942#0: pcre_compile() failed: nothing to repeat in "^*admin$" at "*admin$" in /home/egor/nginx/conf/vhosts/lb.conf:33
+2017/01/27 18:37:34 [emerg] 16946#0: pcre_compile() failed: nothing to repeat in "^*/admin$" at "*/admin$" in /home/egor/nginx/conf/vhosts/lb.conf:33
+2017/01/27 18:37:52 [emerg] 16950#0: pcre_compile() failed: nothing to repeat in "^*/admin$" at "*/admin$" in /home/egor/nginx/conf/vhosts/lb.conf:33
+2017/01/27 18:39:50 [notice] 16977#0: signal process started
+2017/01/27 18:41:26 [emerg] 17030#0: unexpected end of file, expecting "}" in /home/egor/nginx/conf/vhosts/lb.conf:37
+2017/01/27 18:43:26 [notice] 17060#0: signal process started
+2017/01/27 18:43:42 [notice] 17067#0: signal process started
+2017/01/27 18:44:02 [error] 17071#0: *4 "/home/egor/nginx//html/admin/index.html" is not found (2: No such file or directory), client: 192.168.122.82, server: 192.168.122.1, request: "GET /admin HTTP/1.1", host: "192.168.122.1", referrer: "https://192.168.122.1/"
+2017/01/27 18:44:10 [error] 17071#0: *4 "/home/egor/nginx//html/admin/index.html" is not found (2: No such file or directory), client: 192.168.122.82, server: 192.168.122.1, request: "GET /admin HTTP/1.1", host: "192.168.122.1", referrer: "https://192.168.122.1/"
+2017/01/27 18:44:17 [error] 17071#0: *4 "/home/egor/nginx//html/admin/index.html" is not found (2: No such file or directory), client: 192.168.122.82, server: 192.168.122.1, request: "GET /admin/ HTTP/1.1", host: "192.168.122.1"
+2017/01/27 18:44:18 [error] 17071#0: *4 "/home/egor/nginx//html/admin/index.html" is not found (2: No such file or directory), client: 192.168.122.82, server: 192.168.122.1, request: "GET /admin/ HTTP/1.1", host: "192.168.122.1"
+2017/01/27 18:44:24 [error] 17071#0: *4 "/home/egor/nginx//html/admin/index.html" is not found (2: No such file or directory), client: 192.168.122.82, server: 192.168.122.1, request: "GET /admin HTTP/1.1", host: "192.168.122.1", referrer: "https://192.168.122.1/"
+2017/01/27 18:44:27 [error] 17071#0: *4 "/home/egor/nginx//html/admin/index.html" is not found (2: No such file or directory), client: 192.168.122.82, server: 192.168.122.1, request: "GET /admin/ HTTP/1.1", host: "192.168.122.1"
+2017/01/27 18:44:33 [notice] 17084#0: signal process started
+2017/01/27 18:45:54 [notice] 17106#0: signal process started
+2017/01/27 18:47:20 [notice] 17135#0: signal process started
+2017/01/27 18:49:54 [notice] 17169#0: signal process started

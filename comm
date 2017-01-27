@@ -1,0 +1,13 @@
+./configure 
+--user=egor
+--prefix=path 
+--sbin-path=/home/egor/nginx/sbin/nginx
+--conf-path=/home/egor/nginx/conf/nginx.conf
+--error-log-path=/home/egor/nginx/logs/error.log
+--http-log-path=/home/egor/nginx/logs/access.log
+--pid-path=/home/egor/nginx/logs/nginx.pid
+--with-http_ssl_module=/home/egor/nginx/openssl-1.0.2j
+--with-http-realip_module
+--without-http-gzip_module
+--add-module=/home/egor/nginx/nginx-module-vts-master
+--with-pcre=/home/egor/nginx/pcre-8.40
